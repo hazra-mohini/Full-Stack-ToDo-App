@@ -32,6 +32,6 @@ This is a simple ToDo application built with Spring Boot. The app allows users t
    cd todo-app-spring-boot
 ## Run the Application 
 ## Access the Application Open your browser and navigate to:
-    -http://localhost:8080/
-##H2 Database Console Access the H2 database console at:
-   -http://localhost:8080/h2-console
+    http://localhost:8080/
+## H2 Database Console Access the H2 database console at:
+    http://localhost:8080/h2-console
